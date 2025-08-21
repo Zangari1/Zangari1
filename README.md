@@ -13,6 +13,11 @@ Me chamo Pedro Zangari Faria, tenho 18 anos e sou natural de S√£o Paulo. Conclu√
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zangari1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"
         />
     </a>
+    <a href="mailto:pedrofaria.profissional@gmail.com">
+    <img 
+        alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/-pedrofaria.profissional@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -80,6 +85,5 @@ Me chamo Pedro Zangari Faria, tenho 18 anos e sou natural de S√£o Paulo. Conclu√
 />
 
           
-
 
 
